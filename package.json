@@ -1,0 +1,28 @@
+{ 
+  "author": {
+    "name": "zlluGitHub"
+  },
+  "bugs": {
+    "url": "https://github.com/zlluGitHub/markdown-it-toc-right/issues"
+  },
+  "dependencies": {},
+  "description": "Adds syntax for an automatically generated table of contents to markdown-it markdown parser.",
+ 
+  "homepage": "https://github.com/zlluGitHub/markdown-it-toc-right",
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "markdown-it-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "markdown-it-toc-right",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlluGitHub/markdown-it-toc-right.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
